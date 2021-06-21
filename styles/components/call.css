@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+.status-bar {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 14px;
+    margin-left: 35px;
+}
+
+.status-bar__text {
+    font-family: SF Pro Text;
+    font-style: normal;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 15px;
+    margin-right: 215px;
+}
+
+.status-bar__img {
+    margin-right: 5px;
+}
