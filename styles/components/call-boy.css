@@ -1,0 +1,87 @@
+
+.status-bar {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 14px;
+    margin-left: 30px;
+}
+
+.status-bar__text {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 15px;
+    margin-right: 235px;
+}
+
+.status-bar__img {
+    margin-right: 5px;
+}
+
+
+.chat{
+    margin-left: 20px;
+    margin-top: 39px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.chat__img{
+    margin-right: 21px;
+}
+
+.call-img {
+    margin-top: 95px;
+    text-align: center;
+}
+
+.who {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 13px;
+}
+
+.Calling {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.6);
+    text-align: center;
+    padding-top: 4px;
+}
+
+.effect{
+    margin-left: 174px;
+    padding-top: 150px;
+}
+
+.opitions {
+    margin-top: 34px;
+    margin-left: 120px;
+
+}
+
+.opitions__img {
+    margin-right: 30px;
+}
+
+.wallpaper {
+    width: 375px;
+    height: 665px;
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+
+}
+
+.line{
+    margin-left: 120px;
+    padding-top: 40px;
+}
