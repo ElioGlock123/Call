@@ -7,18 +7,48 @@ body{
     width: 90%;
     margin: 0 auto;
     padding-top: 14px;
-    margin-left: 35px;
+    margin-left: 30px;
 }
 
 .status-bar__text {
-    font-family: SF Pro Text;
+    font-family: 'Source Sans Pro',sans-serif;
     font-style: normal;
     color: #FFFFFF;
     font-weight: 600;
     font-size: 15px;
-    margin-right: 215px;
+    margin-right: 230px;
 }
 
 .status-bar__img {
     margin-right: 5px;
+}
+
+
+.chat{
+    margin-left: 20px;
+    margin-top: 39px;
+}
+
+.call-img{
+    text-align: center;
+}
+
+.who{
+    font-family: 'Source Sans Pro',sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 13px;
+}
+
+.Calling{
+    font-family: 'Source Sans Pro',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.6);
+    text-align: center;
+    padding-top: 4px;
 }
