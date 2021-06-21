@@ -1,4 +1,5 @@
 body{
+    position:relative;
     background-color: black;
 }
 
@@ -16,7 +17,7 @@ body{
     color: #FFFFFF;
     font-weight: 600;
     font-size: 15px;
-    margin-right: 230px;
+    margin-right: 235px;
 }
 
 .status-bar__img {
@@ -30,6 +31,7 @@ body{
 }
 
 .call-img{
+    margin-top: 95px;
     text-align: center;
 }
 
@@ -51,4 +53,24 @@ body{
     color: rgba(255, 255, 255, 0.6);
     text-align: center;
     padding-top: 4px;
+}
+
+
+.opitions{
+   margin-top: 220px;
+   margin-left: 78px; 
+
+}
+
+.opitions__img{
+    margin-right: 30px;
+}
+
+.wallpaper{
+    width: 375px;
+    height: 667px;
+    position: absolute;
+    top:0px;
+    z-index: -1;
+    -webkit-filter: blur(15px);
 }
